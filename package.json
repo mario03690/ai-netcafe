@@ -1,0 +1,40 @@
+{
+  "name": "ai-netcafe",
+  "version": "1.0.0",
+  "description": "Compare LLM cost & latency on one prompt, translate PDF keeping layout, cited research, make PPTX — one MCP server, no install of the underlying apps",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "llm",
+    "compare-models",
+    "llm-cost",
+    "pdf-translate",
+    "deep-research",
+    "pptx",
+    "claude",
+    "agent",
+    "ai-tools",
+    "openrouter-alternative"
+  ],
+  "homepage": "https://ainetcafe.com/mcp.html",
+  "bugs": {
+    "url": "https://github.com/mario03690/ai-netcafe/issues"
+  },
+  "license": "MIT",
+  "author": "AI NetCafe (https://ainetcafe.com)",
+  "type": "module",
+  "bin": {
+    "ai-netcafe": "bin/cli.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mario03690/ai-netcafe"
+  }
+}
