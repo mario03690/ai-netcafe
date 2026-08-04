@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-netcafe": {
+      "type": "http",
+      "url": "https://ainetcafe.com/mcp"
+    }
+  }
+}
