@@ -1,5 +1,7 @@
 # ai-netcafe
 
+[![China: reachable](https://ainetcafe.com/badge/china/ainetcafe.com)](https://ainetcafe.com/watch-cn?s=badge-own)
+
 Hosted tools your agent can call over MCP — and a claim you can check in one command:
 
 ```bash
